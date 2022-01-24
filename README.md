@@ -56,3 +56,41 @@ https://kimasill.tistory.com/
 [![image](https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png)](https://kimasill.tistory.com/)
 <img src="https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png" width="400px">
   <p align="center"><img src="https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png" width="400px"></p>
+  
+ # 10. 코드 블록 추가하기
+ ```
+코드
+코드
+코드
+```
+
+# 11. 문자열 개행/ 띄어쓰기
+
+**개행**
+텍스트
+<br/>
+텍스트
+
+**띄어쓰기**
+텍스트 텍스트
+
+# 12. 기타
+**취소선 넣기**
+~~텍스트~~
+
+**체크박스 넣기**
+
+* [x] 체크박스
+
+* [ ] 빈 체크박스
+
+**이모지 넣기**
+😶🙄😏😣😥😮(●'◡'●)╰(*°▽°*)╯(*/ω＼*)(❁´◡`❁)  
+
+**표 넣기**
+
+|:---|:---:|---:|
+
+|내용1|내용2|내용3|
+
+|내용4|내용5|내용6|
