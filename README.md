@@ -57,16 +57,14 @@ https://kimasill.tistory.com/
 <img src="https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png" width="400px">
   <p align="center"><img src="https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png" width="400px"></p>
   
- # 10. 코드 블록 추가하기
- 
+# 10. 코드 블록 추가하기
 <pre>
 <code>
 코드 
 코드
 코드
 </code>
-<pre>
-
+</pre>
 
 ```
 코드
