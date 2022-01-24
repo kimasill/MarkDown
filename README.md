@@ -54,5 +54,5 @@ https://kimasill.tistory.com/
 # 9. 이미지 추가하기
 ![image](https://user-images.githubusercontent.com/80378085/150758811-3f9b193c-6587-4c3c-8394-fc7089c8c77c.png)
 [![image](https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png)](https://kimasill.tistory.com/)
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcqaWq0%2FbtqTqITdGzT%2FgcCvT4ZcQ5LNJ6wxvkxNkk%2Fimg.jpg" width="400px">
-  <p align="center"><img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcqaWq0%2FbtqTqITdGzT%2FgcCvT4ZcQ5LNJ6wxvkxNkk%2Fimg.jpg" width="400px"></p>
+<img src="https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png" width="400px">
+  <p align="center"><img src="https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png" width="400px"></p>
