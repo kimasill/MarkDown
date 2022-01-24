@@ -50,3 +50,8 @@ ___
 
 # 블로그
 https://kimasill.tistory.com/
+
+# 9. 이미지 추가하기
+
+![image](https://user-images.githubusercontent.com/80378085/150758216-be22b593-6a51-4086-9a4b-6b2a79d13282.png)
+
