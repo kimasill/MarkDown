@@ -41,9 +41,9 @@ ___
 [티스토리 블로그](https://kimasill.tistory.com/)
 
 -참조 링크  
-[티스토리 블로그][tstoryBlog]  
+[티스토리 블로그][tistoryBlog]  
 
-[tstoryBlog]: https://kimasill.tistory.com/  
+[tistoryBlog]: https://kimasill.tistory.com/  
 
 -문서 내부 링크 이동  
 [최하단 이동](#블로그)
@@ -53,4 +53,5 @@ https://kimasill.tistory.com/
 
 # 9. 이미지 추가하기
 ![image](https://user-images.githubusercontent.com/80378085/150758811-3f9b193c-6587-4c3c-8394-fc7089c8c77c.png)
+![image](https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png)(https://kimasill.tistory.com/manage/newpost/?type=post&returnURL=%2Fmanage%2Fposts%2F#)
 
