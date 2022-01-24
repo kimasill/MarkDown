@@ -58,7 +58,17 @@ https://kimasill.tistory.com/
   <p align="center"><img src="https://user-images.githubusercontent.com/80378085/150789052-0cf8b4eb-79a5-47a3-acca-a838347ce25a.png" width="400px"></p>
   
  # 10. 코드 블록 추가하기
- ```
+ 
+<pre>
+<code>
+코드 
+코드
+코드
+</code>
+<pre>
+
+
+```
 코드
 코드
 코드
@@ -88,9 +98,7 @@ https://kimasill.tistory.com/
 😶🙄😏😣😥😮(●'◡'●)╰(*°▽°*)╯(*/ω＼*)(❁´◡`❁)  
 
 **표 넣기**
-
+|왼쪽정렬|중앙|오른쪽 정렬|
 |:---|:---:|---:|
-
 |내용1|내용2|내용3|
-
 |내용4|내용5|내용6|
