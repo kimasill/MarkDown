@@ -52,6 +52,5 @@ ___
 https://kimasill.tistory.com/
 
 # 9. 이미지 추가하기
-
-![image](https://user-images.githubusercontent.com/80378085/150758216-be22b593-6a51-4086-9a4b-6b2a79d13282.png)
+![image](https://user-images.githubusercontent.com/80378085/150758811-3f9b193c-6587-4c3c-8394-fc7089c8c77c.png)
 
