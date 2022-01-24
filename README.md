@@ -37,14 +37,14 @@ ___
 >> 인용안의 인용
 
 # 8. 링크 달기 
--인라인 링크
+-인라인 링크  
 [티스토리 블로그](https://kimasill.tistory.com/)
 
--참조 링크
+-참조 링크  
 [티스토리 블로그][tstoryBlog]
 [tstoryBlog]: https://kimasill.tistory.com/
 
--문서 내부 링크 이동
+-문서 내부 링크 이동  
 [최하단 이동](#블로그)
 
 # 블로그
